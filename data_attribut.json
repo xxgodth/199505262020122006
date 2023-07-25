@@ -1,0 +1,162 @@
+[
+    {
+      "id_pendaftar": 1,
+      "jenis_attr": "nilai_t1",
+      "value": 75
+    },
+    {
+      "id_pendaftar": 1,
+      "jenis_attr": "nilai_t2",
+      "value": 70
+    },
+    {
+      "id_pendaftar": 1,
+      "jenis_attr": "nilai_t3",
+      "value": ""
+    },
+    {
+      "id_pendaftar": 1,
+      "jenis_attr": "url_file",
+      "value": "https://repositorio.ufrn.br/bitstream/123456789/46463/1/Lorem%20Ipsum%20-%20All%20the%20facts%20-%20Lipsum%20generator.pdf"
+    },
+    {
+      "id_pendaftar": 2,
+      "jenis_attr": "nilai_t1",
+      "value": 89
+    },
+    {
+      "id_pendaftar": 2,
+      "jenis_attr": "nilai_t2",
+      "value": 72
+    },
+    {
+      "id_pendaftar": 2,
+      "jenis_attr": "nilai_t3",
+      "value": 77
+    },
+    {
+      "id_pendaftar": 2,
+      "jenis_attr": "url_file",
+      "value": "https://www.utsouthwestern.edu/edumedia/edufiles/education_training/programs/stars/kleinschmidt-adolescent-er-chemistry.pdf"
+    },
+    {
+      "id_pendaftar": 11,
+      "jenis_attr": "nilai_t1",
+      "value": 80
+    },
+    {
+      "id_pendaftar": 11,
+      "jenis_attr": "nilai_t2",
+      "value": 97
+    },
+    {
+      "id_pendaftar": 11,
+      "jenis_attr": "nilai_t3",
+      "value": 93
+    },
+    {
+      "id_pendaftar": 11,
+      "jenis_attr": "url_file",
+      "value": "https://www.varstroj.si/shared_files/test/computing.pdf"
+    },
+    {
+      "id_pendaftar": 12,
+      "jenis_attr": "nilai_t1",
+      "value": 90
+    },
+    {
+      "id_pendaftar": 12,
+      "jenis_attr": "nilai_t2",
+      "value": 71
+    },
+    {
+      "id_pendaftar": 12,
+      "jenis_attr": "nilai_t3",
+      "value": 76
+    },
+    {
+      "id_pendaftar": 12,
+      "jenis_attr": "url_file",
+      "value": "http://www.aldesahome.com/uploads/promociones/1/tipologias/1/pdf/Lorem_Ipsum.pdf"
+    },
+    {
+      "id_pendaftar": 21,
+      "jenis_attr": "nilai_t1",
+      "value": ""
+    },
+    {
+      "id_pendaftar": 21,
+      "jenis_attr": "nilai_t2",
+      "value": 83
+    },
+    {
+      "id_pendaftar": 21,
+      "jenis_attr": "nilai_t3",
+      "value": 94
+    },
+    {
+      "id_pendaftar": 21,
+      "jenis_attr": "url_file",
+      "value": "https://dt.mahidol.ac.th/wp-content/plugins/sky-elementor-addons/assets/others/pdf-file-sample.pdf"
+    },
+    {
+      "id_pendaftar": 22,
+      "jenis_attr": "nilai_t1",
+      "value": 79
+    },
+    {
+      "id_pendaftar": 22,
+      "jenis_attr": "nilai_t2",
+      "value": 87
+    },
+    {
+      "id_pendaftar": 22,
+      "jenis_attr": "nilai_t3",
+      "value": 80
+    },
+    {
+      "id_pendaftar": 22,
+      "jenis_attr": "url_file",
+      "value": "https://cran.r-project.org/web/packages/lorem/lorem.pdf"
+    },
+    {
+      "id_pendaftar": 31,
+      "jenis_attr": "nilai_t1",
+      "value": 76
+    },
+    {
+      "id_pendaftar": 31,
+      "jenis_attr": "nilai_t2",
+      "value": 76
+    },
+    {
+      "id_pendaftar": 31,
+      "jenis_attr": "nilai_t3",
+      "value": 89
+    },
+    {
+      "id_pendaftar": 31,
+      "jenis_attr": "url_file",
+      "value": "https://www.subaru.com/guides/wrx/my17/mobile/_assets/individual_pdfs/S-18268_17WRX_STImb_video_rX.pdf"
+    },
+    {
+      "id_pendaftar": 32,
+      "jenis_attr": "nilai_t1",
+      "value": 98
+    },
+    {
+      "id_pendaftar": 32,
+      "jenis_attr": "nilai_t2",
+      "value": 78
+    },
+    {
+      "id_pendaftar": 32,
+      "jenis_attr": "nilai_t3",
+      "value": 87
+    },
+    {
+      "id_pendaftar": 32,
+      "jenis_attr": "url_file",
+      "value": "https://jetcommerce.co.id/wp-content/uploads/2019/03/Lorem-Ipsum.pdf"
+    }
+  ]
